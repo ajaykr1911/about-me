@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ajay Kumar
 - 👀 I’m interested in new tech.
-- 🌱 I’m currently working on some projects related to deep learning.
-- 💞️ I’m looking to collaborate on machine learning projects.
+- 🌱 I’m currently working on some projects related to deep learning and web development.
+- 💞️ I’m looking to collaborate on machine learning and web develoment projects.
 - 📫 You can contact me on ajay.17mi@gmail.com
 
 <!---
